@@ -1,4 +1,3 @@
-Proyect-Bases
 This week we expected to be able to do...
 Deciding the project's topic, creating a requirement's table, use case diagram and a traceability matrix.
 
